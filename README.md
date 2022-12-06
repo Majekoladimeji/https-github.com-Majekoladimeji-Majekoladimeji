@@ -45,11 +45,11 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Majek Oladimeji</span>
         </h1>
-        <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
-        <a href="#contact" class="btn btn--pink">Get in touch</a>
+        <!-- hi, my name is majek oladimeji am a frontend developer -->
+        <p>A Web Developer based in Lagos, nigeria.</p>
+        <a href="allimajek028@gmail.com" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
 ```
@@ -59,21 +59,19 @@ In all of the places where you're supposed to fill your information you'll find 
 Each div with class `work__box` represents a project, replace the contents of the all the tags with the information of your projects.
 
 ```html
-<div class="work__box">
-    <div class="work__text">
+<div class="Calculator">
+    <div class="Calculator">
     <h3>Portfolio Template</h3>
     <p>
-        A free Open Source Portfolio for anyone to use for free.
+       Simple Arithmetic Calculator Using Html and Css.
     </p>
     <ul class="work__list">
         <li>HTML</li>
-        <li>SCSS</li>
-        <li>JavaScript</li>
-        <li>Parcel</li>
+        <li>CSS</li>
     </ul>
 
     <div class="work__links">
-        <a href="#" class="link__text">
+        <a href="[#](http://localhost/Building%20a%20Calculator%20with%20Html%20&%20Css/Css/index.html)" class="link__text">
         Visit Site <span>&rarr;</span>
         </a> 
         <a href="https://github.com/nisarhassan12/portfolio" target="_blank">
